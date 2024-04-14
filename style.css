@@ -1,0 +1,32 @@
+header 
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #f4f4f4
+}
+
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+   align-items:center;
+}
+
+section 
+{
+    text-align: center; 
+}
+
+footer
+{
+    font-size: small;
+    text-align: center;
+    background-color:darkgrey;
+    padding: 1;
+    
+}
+
+.dados-pessoais
+{
+    background-color: beige;
+}
+.habilidades
+{background-color: antiquewhite;}
